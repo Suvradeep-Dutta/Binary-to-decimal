@@ -3,6 +3,7 @@
 int bintodec(long long int);
 int rem,dec=0,i=0;
 long long int n;
+// main method
 int main()
 {
     
@@ -14,7 +15,7 @@ int main()
 
 
 
-
+// method to convert a binary number to decimal
 int bintodec(long long int a)
 {
     long long int b;

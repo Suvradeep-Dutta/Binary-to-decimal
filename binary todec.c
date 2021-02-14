@@ -23,7 +23,7 @@ int bintodec(long long int a)
     b=a;
     if(a<0)
     {
-        printf("Invalid Input");
+        printf("Invalid Input"); // printing invalid input
     }
     else
     {
